@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
     <sys_db_object action="INSERT_OR_UPDATE">
-        <access/>
+        <access>public</access>
         <actions_access>true</actions_access>
         <alter_access>true</alter_access>
         <caller_access/>
@@ -10,7 +10,7 @@
         <create_access_controls>false</create_access_controls>
         <delete_access>false</delete_access>
         <is_extendable>false</is_extendable>
-        <label>Produtos</label>
+        <label>Produto</label>
         <live_feed_enabled>false</live_feed_enabled>
         <name>x_1256054_gest_o_0_produto</name>
         <number_ref display_value="PRO">2167463397fe71102893f93de053af95</number_ref>
@@ -22,14 +22,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-12-06 02:37:59</sys_created_on>
         <sys_id>e167463397fe71102893f93de053af7f</sys_id>
-        <sys_mod_count>1</sys_mod_count>
-        <sys_name>Produtos</sys_name>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Produto</sys_name>
         <sys_package display_value="Gestão de Inventário" source="x_1256054_gest_o_0">caf086bb97be71102893f93de053af6d</sys_package>
         <sys_policy/>
         <sys_scope display_value="Gestão de Inventário">caf086bb97be71102893f93de053af6d</sys_scope>
         <sys_update_name>sys_db_object_e167463397fe71102893f93de053af7f</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-12-06 02:37:59</sys_updated_on>
+        <sys_updated_on>2023-12-07 16:13:35</sys_updated_on>
         <update_access>true</update_access>
         <user_role/>
         <ws_access>true</ws_access>
