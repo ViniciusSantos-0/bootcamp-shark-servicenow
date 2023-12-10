@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container">
+    <sp_container action="DELETE">
+        <background_color/>
+        <background_image/>
+        <background_style>default</background_style>
+        <bootstrap_alt>false</bootstrap_alt>
+        <class_name>padding-top-lg</class_name>
+        <container_class_name/>
+        <name>Aqui tem dtudo - Container 4</name>
+        <order>4</order>
+        <sp_page display_value="copy_of_index_1">333d7a81974fb5102893f93de053afea</sp_page>
+        <subheader>false</subheader>
+        <sys_class_name>sp_container</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-10 03:45:40</sys_created_on>
+        <sys_id>0c4dfec1974fb5102893f93de053afb5</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Aqui tem dtudo - Container 4</sys_name>
+        <sys_package display_value="Gestão de Inventário" source="x_1256054_gest_o_0">caf086bb97be71102893f93de053af6d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">caf086bb97be71102893f93de053af6d</sys_scope>
+        <sys_update_name>sp_container_0c4dfec1974fb5102893f93de053afb5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-10 03:52:02</sys_updated_on>
+        <title/>
+        <width>container</width>
+    </sp_container>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Gestão de Inventário">caf086bb97be71102893f93de053af6d</application>
+        <file_path/>
+        <instance_id>1405555a1b76b5d0699443f4bd4bcba9</instance_id>
+        <instance_name>dev230617</instance_name>
+        <name>sp_container_0c4dfec1974fb5102893f93de053afb5</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container"><sp_container action="INSERT_OR_UPDATE"><background_color/><background_image/><background_style>default</background_style><bootstrap_alt>false</bootstrap_alt><class_name>padding-top-lg</class_name><container_class_name/><name>Aqui tem dtudo - Container 4</name><order>4</order><sp_page display_value="copy_of_index_1">333d7a81974fb5102893f93de053afea</sp_page><subheader>false</subheader><sys_class_name>sp_container</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-10 03:45:40</sys_created_on><sys_id>0c4dfec1974fb5102893f93de053afb5</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Aqui tem dtudo - Container 4</sys_name><sys_package display_value="Gestão de Inventário" source="x_1256054_gest_o_0">caf086bb97be71102893f93de053af6d</sys_package><sys_policy/><sys_scope display_value="Gestão de Inventário">caf086bb97be71102893f93de053af6d</sys_scope><sys_update_name>sp_container_0c4dfec1974fb5102893f93de053afb5</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-10 03:52:02</sys_updated_on><title/><width>container</width></sp_container></record_update>]]></payload>
+        <payload_hash>-728290090</payload_hash>
+        <record_name>Aqui tem dtudo - Container 4</record_name>
+        <reverted_from/>
+        <source>fd22711897cbf1102893f93de053af2e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-10 03:52:02</sys_created_on>
+        <sys_id>5dbe3681974fb5102893f93de053afaf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c51da7bf10000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-10 03:52:02</sys_updated_on>
+        <type>Container</type>
+        <update_guid>d1be3681b14fb5107e15024c3a9b70af</update_guid>
+        <update_guid_history>d1be3681b14fb5107e15024c3a9b70af:-728290090,4c4dfec1ef4fb5104f1b210eb6b4eeb6:166045822</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Aqui tem dtudo - Container 4">e8824349974fb5102893f93de053af61</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-10 04:08:39</sys_created_on>
+        <sys_db_object display_value="" name="sp_container">sp_container</sys_db_object>
+        <sys_id>2bfd02eed51c4f849410200c1d0cf6a4</sys_id>
+        <sys_metadata>0c4dfec1974fb5102893f93de053afb5</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Aqui tem dtudo - Container 4</sys_name>
+        <sys_package display_value="Gestão de Inventário" source="x_1256054_gest_o_0">caf086bb97be71102893f93de053af6d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">caf086bb97be71102893f93de053af6d</sys_scope>
+        <sys_scope_delete display_value="">156d6f8e903e4c7783756a8f276ca989</sys_scope_delete>
+        <sys_update_name>sp_container_0c4dfec1974fb5102893f93de053afb5</sys_update_name>
+        <sys_update_version display_value="sp_container_0c4dfec1974fb5102893f93de053afb5">5dbe3681974fb5102893f93de053afaf</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-10 04:08:39</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
